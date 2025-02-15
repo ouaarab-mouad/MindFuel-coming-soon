@@ -5,6 +5,11 @@ h1,
 h2,
 div {
     font-family: "Abel", sans-serif !important;
+    color: white; /* Change text color to white */
+}
+
+html {
+    background-color: black; /* Change background color to black */
 }
 
 p,
