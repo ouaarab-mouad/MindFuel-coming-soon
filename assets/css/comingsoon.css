@@ -1,4 +1,5 @@
-@import url("https://fonts.googleapis.com/css2?family=Abel&display=swap");
+
+
 html,
 p,
 h1,
@@ -17,6 +18,17 @@ b {
     font-size: x-large;
     font-weight: 300;
 }
+
+.coming-soon-heading {
+    font-family:'Times New Roman', Times, serif;
+    font-size: 50px; /* Adjust font size as needed */
+    color: white; /* Ensure text color is white */
+    text-align: center; /* Center align the text */
+    margin-top: 0; /* Remove top margin */
+    margin-bottom: 0; /* Remove bottom margin */
+}
+
+
 
 .footer-copyright {
     bottom: 0 !important;
